@@ -1,14 +1,15 @@
 1. Thoriq
 1. Thoriq lagi
-2. Auzan
-3. Naufal
-4. Amilin
-2. Thoriq lagi
-3. Auzan
-4. Naufal
-5. Amilin
-6. Ramadhan ibnu
-7. Imam
-8. Dhani
-9. Yogi
-10. Zen
+1. Auzan
+1. Naufal
+1. Amilin
+1. Thoriq lagi
+1. Auzan
+1. Naufal
+1. Amilin
+1. Ramadhan ibnu
+1. Imam
+1. Dhani
+1. Yogi
+1. Zen
+1. Aziz
