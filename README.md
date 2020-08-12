@@ -1,6 +1,9 @@
 1. Thoriq
 1. Thoriq
 1. Thoriq lagi
+2. Auzan
+3. Naufal
+4. Amilin
 2. Thoriq lagi
 3. Auzan
 4. Naufal
