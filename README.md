@@ -4,5 +4,5 @@
 3. Naufal
 4. Amilin
 5. Ramadhan ibnu
-6. imam
-7. Krisna a
+6. Imam
+7. Krisna
