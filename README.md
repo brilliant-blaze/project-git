@@ -1,1 +1,1 @@
-Nambahin README.md
+1. Thoriq
